@@ -1,0 +1,6 @@
+{
+  "name": "Crononautas",
+  "description": "Aplicación educativa gamificada para la práctica de operaciones con números enteros para alumnos de 1º a 3º de la ESO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
